@@ -18,7 +18,7 @@ Underwater image enhancement (UIE) remains a fundamental challenge due to comple
 4. U45:[data](https://github.com/IPNUISTlegal/underwater-test-dataset-U45-/tree/master/upload/U45)
 
 ## Training / Testing
-To make use of the [main.py](https://github.com/iAlphaGo/VMD_diff_sea/blob/main/main.py)
+To make use of the [main.py](https://github.com/iAlphaGo/DoGdiffsea/blob/main/main.py)
 
 ## Contact
 Should you have any question, please contact <dingqianwen@stu.xupt.edu.cn>
